@@ -1,2 +1,2 @@
 # our_pro
-this our project
+this is our project
